@@ -1,0 +1,29 @@
+{
+  "name": "ember-cli-styleguide",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Generate an HTML styleguide from CSS containing Markdown documentation &",
+  "main": "index.js",
+  "scripts": {
+    "test": null
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/substantial/ember-cli-styleguide.git"
+  },
+  "keywords": [
+    "ember-addon"
+  ],
+  "ember-addon-main": "lib/ember-addon-main.js",
+  "author": "Mars <mars@substantial.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/substantial/ember-cli-styleguide/issues"
+  },
+  "homepage": "https://github.com/substantial/ember-cli-styleguide",
+  "devDependencies": {
+    "glob": "^4.0.4",
+    "broccoli-styleguide": "^0.2.1",
+    "broccoli-static-compiler": "^0.1.4"
+  }
+}
